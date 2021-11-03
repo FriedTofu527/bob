@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=bonk
+comment1.params=
+comment1.target=bonk()
+comment2.params=s
+comment2.target=bonk(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
